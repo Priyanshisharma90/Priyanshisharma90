@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Sharma</h1>
 
-<h3 align="center">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h3>
+<h1 align="left">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h1>
 
-<h3 align="center">🌱 Currently Learning:</h3>
+<h3 align="left">🌱 Currently Learning:</h3>
 
 <ul>
   <li>→ Advanced Python for Data Science & Automation</li>
