@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h3>
+
+<h3 align="center">🌱 Currently Learning:</h3>
+
+<ul>
+  <li>→ Advanced Python for Data Science & Automation</li>
+  <li>→ AI/ML Techniques for Predictive Analytics</li>
+  <li>→ SQL, Power BI, and Advanced Excel for Data Visualization & Insights</li>
+</ul>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshisharma90&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshisharma90" /> </p>
 
