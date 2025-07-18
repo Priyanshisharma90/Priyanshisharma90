@@ -27,8 +27,9 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/priyanshisharm29" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
 </a>
+
 
 </p>
 
