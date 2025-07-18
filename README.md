@@ -5,7 +5,7 @@
   <li><h3 align="left">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h3></li>
 </ul>
 
-<h3 align="left">🌱 Currently Learning:</h3>
+<h3 align="left">🌱</b> Currently Learning:</b></h3>
 <ul>
   <li>→ Advanced Python for Data Science & Automation</li>
   <li>→ AI/ML Techniques for Predictive Analytics</li>
