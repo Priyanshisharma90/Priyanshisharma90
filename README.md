@@ -10,7 +10,6 @@
   → Advanced Python for Data Science & Automation
 
   → AI/ML Techniques for Predictive Analytics
-  
   → SQL, Power BI, and Advanced Excel for Data Visualization & Insights
 </ul>
 
