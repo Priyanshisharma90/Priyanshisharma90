@@ -8,7 +8,9 @@
 <h3 align="left">🌱 Currently Learning:</h3>
 <ul>
   → Advanced Python for Data Science & Automation
+
   → AI/ML Techniques for Predictive Analytics
+  
   → SQL, Power BI, and Advanced Excel for Data Visualization & Insights
 </ul>
 
