@@ -1,9 +1,8 @@
-<h1 align="center"><b>ABOUT ME:</b></h1>
+##  About Me
 
-<ul>
-  <li><h3 align="left">👋 I'm Priyanshi Sharma</h3></li>
-  <li><h3 align="left">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h3></li>
-</ul>
+👋 Hi, I’m Priyanshi Sharma !
+
+👀 I’m interested in: Data Science, Machine Learning and Artificial Intelligence
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <ul>
