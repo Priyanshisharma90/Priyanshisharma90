@@ -1,14 +1,17 @@
-<h1 align="center">ABOUT ME:</h1>
-<h3 align="left">👋 i'm Priyanshi Sharma </h3>
-<h3 align="left">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h3>
+<h1 align="center"><b>ABOUT ME:</b></h1>
+
+<ul>
+  <li><h3 align="left">👋 I'm Priyanshi Sharma</h3></li>
+  <li><h3 align="left">👀 I’m interested in: Data Science, Machine Learning, and Artificial Intelligence</h3></li>
+</ul>
 
 <h3 align="left">🌱 Currently Learning:</h3>
-
 <ul>
   <li>→ Advanced Python for Data Science & Automation</li>
   <li>→ AI/ML Techniques for Predictive Analytics</li>
   <li>→ SQL, Power BI, and Advanced Excel for Data Visualization & Insights</li>
 </ul>
+
 
 
 
