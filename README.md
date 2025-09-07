@@ -6,9 +6,11 @@
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <ul>
-  <p>→ Advanced Python for Data Science & Automation</p>
-  <p>→ AI/ML Techniques for Predictive Analytics</p>
-  <p>→ SQL, Power BI, and Advanced Excel for Data Visualization & Insights</p>
+  <p>→ Advanced Excel & Power BI for Business Intelligence</p>
+  <p>→ SQL & Data Warehousing for Data Management</p>
+  <p>→ Data Visualization & Storytelling with Tableau/Power BI</p>
+  <p>→ Statistics & Data Analysis for Business Insights</p>
+  <p>→ Basics of Machine Learning for Data-Driven Decisions</p>
 </ul>
 
 
