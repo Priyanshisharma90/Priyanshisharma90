@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Priyanshi Sharma !
 
-👀 I’m interested in: Data Science, Machine Learning and Artificial Intelligence
+👀Aspiring Data Analyst passionate about turning raw data into actionable insights using Excel, SQL, and BI tools.
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <ul>
